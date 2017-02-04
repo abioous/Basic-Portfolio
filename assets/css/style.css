@@ -190,6 +190,9 @@ footer p {
 
 
 input[type=submit] {
+	background-color: #4aaaa5;
+	color:white;
+	font-size: large;
 	margin-top: 1em;
 	padding:0.8em;
 	text-align:center;
